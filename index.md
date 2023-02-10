@@ -3,6 +3,7 @@ title: Home
 ---
 
 # Join us today in shaping the cancer research with AI
+[![AI+Cancer](images/Youtube_Screenshot_Website.png)](https://youtu.be/sca0xD0_x34?t=38s "AI+Cancer")
 {%
   include link.html
   link="careers"
@@ -14,8 +15,6 @@ title: Home
 # Mission
 Our <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to improve the understanding and treatment of cancer by harnessing the power of computer intelligence. Guided by our vision that computers will be able think and do just as humans can, we strive to develop innovative therapies and identify target populations by building systems model of tumors through the use of AI and statistical approaches, while collaborating with other researchers in this pursuit. We will be recognized for fostering a transdisciplinary, diverse, and collegial environment.
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
 
 ## Website under construction
 {%
