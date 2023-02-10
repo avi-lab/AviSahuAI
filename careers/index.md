@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Careers
 nav:
   order: 1
   tooltip: Published works
@@ -32,6 +32,6 @@ This is an excellent opportunity for students, who are looking to expand their k
 - Verbal and written communication skills. 
 - Ability to work independently and as part of a team.
 
-Be a part of something big! Submit your CV and a brief research interest to Avi Sahu (asahu@salud.unm.edu) and become a part of the revolution at the Avi Sahu Lab. Join us in our mission to fight cancer through AI.
+Be a part of something big! Submit your CV and a brief research interest to Avi Sahu (asahu@salud.unm.edu) and become a part of the Avi Sahu Lab. Join us in our mission to fight cancer through AI.
 
 

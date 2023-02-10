@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Join us today in shaping the revolution to conquer cancer with AI
+# Join us today in shaping the cancer research with AI
 {%
   include link.html
   link="careers"
@@ -11,7 +11,8 @@ title: Home
   flip=true
 %}
 
-Our <span style="font-family:Papyrus; font-size:4em;">MISSION</span> is to improve the understanding and treatment of cancer by harnessing the power of computer intelligence. Guided by our vision that computers will be able think and do just as humans can, we strive to develop innovative therapies and identify target populations by building systems model of tumors through the use of AI and statistical approaches, while collaborating with other researchers in this pursuit. We will be recognized for fostering a transdisciplinary, diverse, and collegial environment.
+# Mission
+Our <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to improve the understanding and treatment of cancer by harnessing the power of computer intelligence. Guided by our vision that computers will be able think and do just as humans can, we strive to develop innovative therapies and identify target populations by building systems model of tumors through the use of AI and statistical approaches, while collaborating with other researchers in this pursuit. We will be recognized for fostering a transdisciplinary, diverse, and collegial environment.
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel, and more time running your lab.
@@ -44,9 +45,7 @@ Spend less time reinventing the wheel, and more time running your lab.
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+Our work describing AI/Machine learning approahces levearaging big data to find multi-functional drugs published in Cancer Discovery.   
 {%
   include link.html
   link="research"
