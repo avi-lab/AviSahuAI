@@ -9,8 +9,6 @@ title: Home
   link="careers"
   text="VIEW CAREERS"
   style="button"
-  <!-- icon="fas fa-arrow-right" -->
-  <!-- flip=true -->
 %}
 # Mission
 Our <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to improve the understanding and treatment of cancer by harnessing the power of computer intelligence. Guided by our vision that computers will be able think and do just as humans can, we strive to develop innovative therapies and identify target populations by building systems model of tumors through the use of AI and statistical approaches, while collaborating with other researchers in this pursuit. We will be recognized for fostering a transdisciplinary, diverse, and collegial environment.
