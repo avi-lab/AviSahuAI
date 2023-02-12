@@ -26,8 +26,6 @@ Our <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to impro
 
 # Highlights
 
-<!-- {% capture text %} -->
-
 Our team's latest research publication is now available in Cancer Discovery. Our work delves into the discovery of bipotent drugs as a new solution for traditional combination therapies, targeting two oncogenic pathways at once.
 
 Our team has leveraged cutting-edge artificial intelligence techniques to predict patient responses to immunotherapy. These methods consider the activity of bipotent targets within tumors, delivering a more tailored approach to cancer treatment.
@@ -36,6 +34,9 @@ This publication introduces a fresh perspective to the field of cancer therapy, 
  
 {%
   include link.html
+  type="docs"
+  icon=""
+  text="See the publication"
   link="https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-22-0244/716349/Discovery-of-Targets-for-Immune-Metabolic"
 %}
 
