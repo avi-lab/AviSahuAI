@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Avi Sahu lab 
+description: Website for Avi Sahu labs
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,12 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: asahu@salud.unm.edu
+  google-scholar: DEvS7JIAAAAJ
+  github: vinash85
+  # twitter: YourLabHandle
+  # instagram: YourLabHandle
+  # youtube: YourLabChannel
 
 ### advanced settings
 
