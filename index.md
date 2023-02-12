@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Join us today in shaping the cancer research with AI
-[![AI+Cancer](images/Youtube_Screenshot_Website.png)](https://youtu.be/sca0xD0_x34?t=38s "AI+Cancer")
+<!-- [![AI+Cancer](images/Youtube_Screenshot_Website.png)](https://youtu.be/sca0xD0_x34?t=38s "AI+Cancer") -->
 {%
   include link.html
   link="careers"
@@ -16,7 +16,7 @@ Our <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to impro
 
 # Highlights
 
-{% capture text %}
+<!-- {% capture text %} -->
 
 Our team's latest research publication is now available in Cancer Discovery. Our work delves into the discovery of bipotent drugs as a new solution for traditional combination therapies, targeting two oncogenic pathways at once.
 
@@ -28,8 +28,8 @@ This publication introduces a fresh perspective to the field of cancer therapy, 
   include link.html
   link="https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-22-0244/716349/Discovery-of-Targets-for-Immune-Metabolic"
 %}
-{:.center}
-{% endcapture %}
+<!-- {:.center} -->
+<!-- {% endcapture %} -->
 
 ## Website under construction
 {%
