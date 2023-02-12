@@ -4,7 +4,16 @@ title: Home
 
 # Join us today in shaping the cancer research with AI
 
-[![AI+Cancer](images/Youtube_Screenshot_Website.png)](https://youtu.be/sca0xD0_x34?t=38s "AI+Cancer")
+
+{%
+  include figure.html
+  image="images/Youtube_Screenshot_Website.png"
+  caption="AI+Cancer"
+  link="https://youtu.be/sca0xD0_x34?t=38s"
+%}
+
+  <!-- width="400px" -->
+<!-- [![AI+Cancer](images/Youtube_Screenshot_Website.png)](https://youtu.be/sca0xD0_x34?t=38s "AI+Cancer") -->
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel, and more time running your lab.
