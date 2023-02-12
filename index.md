@@ -7,7 +7,7 @@ title: Home
 
 {%
   include figure.html
-  image="images/Youtube_Screenshot_Website.png"
+  image="images/michelson.png"
   caption="AI+Cancer"
   link="https://youtu.be/sca0xD0_x34?t=38s"
 %}
