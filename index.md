@@ -76,7 +76,7 @@ Our lab develops user-friendly AI and statistical tools for the global community
 {%
   include link.html
   link="tools"
-  text="Discover our innovative tools and contribute to advancing cancer research. Learn more now."
+  text="Discover our innovative tools and contribute to advancing cancer research."
   icon="fas fa-arrow-right"
   flip=true
 %}
