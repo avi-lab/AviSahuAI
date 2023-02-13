@@ -27,18 +27,31 @@ Our  <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to enha
 
 # Highlights
 {% capture text %}
-Our latest research publication in Cancer Discovery explores the discovery of bipotent drugs as a new solution for traditional combination therapies. Our cutting-edge AI techniques predict patient responses to immunotherapy using the activity of bipotent targets within tumors. Be a part of this exciting research and contribute to the advancement of cancer therapy. Read our publication now in Cancer Discovery.
- 
+Our latest research publication in Cancer Discovery explores the discovery of bipotent drugs as a new solution for traditional combination therapies. Our cutting-edge AI techniques predict patient responses to immunotherapy. Be a part of this exciting research and contribute to the advancement of cancer therapy. 
 {%
   include link.html
   type="docs"
   icon=""
-  text="See the publication"
+  text="Read our publication now in Cancer Discovery."
   link="https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-22-0244/716349/Discovery-of-Targets-for-Immune-Metabolic"
 %}
-
+{%
+  include link.html
+  link="research"
+  text="See what we've published"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 {:.center}
 {% endcapture %}
+
+{%
+  include feature.html
+  image="images/bipotentR.png"
+  link="research"
+  title="News"
+  text=text
+%}
 
 
 {% include section.html %}
