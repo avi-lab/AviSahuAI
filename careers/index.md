@@ -11,7 +11,23 @@ New openings are coming soon!
 
 Students interested in Postdocs, PhD, UG research at UNM Avi Lab please directly reach out to Avi Sahu @ [asahu@salud.unm.edu](asahu@salud.unm.edu) 
 
-# Exciting Opportunity to Make a Difference in Cancer Research!
+# Postdoctoral Fellow at Avi Sahu Lab to Work in AI and Biomedicine!
+The Avi Sahu Lab at the UNM Cancer Center is seeking a highly motivated postdoctoral fellow with a passion for learning AI and statistical approaches to join our team. Our interdisciplinary group focuses on developing novel diagnostic methods and utilizing artificial intelligence to improve cancer treatments. Our lab specializes in developing computational approaches for drugs and gene targets by interfacing immuno-oncology with AI/statistical approaches. We are currently working on developing computational approaches in three areas: 1) personalized approaches for targeting tumor heterogeneity (particularly in ovarian cancer), 2) new immunotherapeutic targets and agents by targeting tumor immune microenvironment, and 3) statistical analysis of single cell data. Please choose one area while responding to this post.
+
+### Key Responsibilities:
+- Learning and developing AI and statistical approaches for cancer research • Analyzing clinical and genomic data 
+-  Contributing to scientific writing and creating data figures for research publications 
+- Attending relevant workshops to develop computational biology, bioinformatics, and computational immunology skills.
+
+### Requirements:
+- PhD in computer science, engineering, physics, data sciences, life sciences, biology, immunology or a related field. 
+-  Experience in data analysis with computational data tools (R, Python). 
+-  Excellent verbal and written communication skills. • Ability to work independently and as part of a team.
+
+To apply, please send your CV and a brief research interest to Avi Sahu at asahu@salud.unm.edu. Join us in our mission to fight cancer through AI. The position comes with an attractive salary package commensurate with computation postdocs and experience.
+
+
+# Exciting Opportunity to Make a Difference in Cancer Research (Data Analyst)
 
 The Avi Sahu Lab at the UNM Cancer Center is seeking a driven and enthusiastic Data Analyst Technician to join our cutting-edge team. As a member of our interdisciplinary group, you will have the chance to work on developing innovative diagnostic methods and utilizing artificial intelligence to improve cancer treatments.
 
