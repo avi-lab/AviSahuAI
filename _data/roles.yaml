@@ -14,9 +14,9 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-programmer:
+bioinformatician:
   icon: fas fa-code
-  text: Programmer
+  text: Bioinformatician
 
 mascot:
   icon: fas fa-dog
