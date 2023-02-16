@@ -9,22 +9,22 @@ nav:
 
 New openings are coming soon!
 
-Students interested in Postdocs, PhD, UG research at UNM Avi Lab please directly reach out to Avi Sahu @ [asahu@salud.unm.edu](asahu@salud.unm.edu) 
+UNM Students interested in Postdocs, PhD, UG research at UNM Avi Lab please directly reach out to Avi Sahu @ [asahu@salud.unm.edu](asahu@salud.unm.edu) 
 
 # Postdoctoral Fellow at Avi Sahu Lab to Work in AI and Biomedicine!
 The Avi Sahu Lab at the UNM Cancer Center is seeking a highly motivated postdoctoral fellow with a passion for learning AI and statistical approaches to join our team. Our interdisciplinary group focuses on developing novel diagnostic methods and utilizing artificial intelligence to improve cancer treatments. Our lab specializes in developing computational approaches for drugs and gene targets by interfacing immuno-oncology with AI/statistical approaches. We are currently working on developing computational approaches in three areas: 1) personalized approaches for targeting tumor heterogeneity (particularly in ovarian cancer), 2) new immunotherapeutic targets and agents by targeting tumor immune microenvironment, and 3) statistical analysis of single cell data. Please choose one area while responding to this post.
 
 ### Key Responsibilities:
-- Learning and developing AI and statistical approaches for cancer research • Analyzing clinical and genomic data 
+- Learning and developing AI and statistical approaches for cancer research - Analyzing clinical and genomic data 
 -  Contributing to scientific writing and creating data figures for research publications 
 - Attending relevant workshops to develop computational biology, bioinformatics, and computational immunology skills.
 
 ### Requirements:
 - PhD in computer science, engineering, physics, data sciences, life sciences, biology, immunology or a related field. 
 -  Experience in data analysis with computational data tools (R, Python). 
--  Excellent verbal and written communication skills. • Ability to work independently and as part of a team.
+-  Excellent verbal and written communication skills. - Ability to work independently and as part of a team.
 
-To apply, please send your CV and a brief research interest to Avi Sahu at asahu@salud.unm.edu. Join us in our mission to fight cancer through AI. The position comes with an attractive salary package commensurate with computation postdocs and experience.
+To apply, please send your CV and a brief research interest to Avi Sahu at [asahu@salud.unm.edu](asahu@salud.unm.edu). Join us in our mission to fight cancer through AI. The position comes with an attractive salary package commensurate with computation postdocs and experience.
 
 
 # Exciting Opportunity to Make a Difference in Cancer Research (Data Analyst)
@@ -48,22 +48,22 @@ This is an excellent opportunity for students, who are looking to expand their k
 - Verbal and written communication skills. 
 - Ability to work independently and as part of a team.
 
-Be a part of something big! Submit your CV and a brief research interest to Avi Sahu (asahu@salud.unm.edu) and become a part of the Avi Sahu Lab. Join us in our mission to fight cancer through AI.
+Be a part of something big! Submit your CV and a brief research interest to Avi Sahu ([asahu@salud.unm.edu](asahu@salud.unm.edu)) and become a part of the Avi Sahu Lab. Join us in our mission to fight cancer through AI.
 
 
- # UG Technician in AI and single cell analysis
+# UG Technician in AI and single cell analysis
 
 Join our team at the Avi Sahu Lab at UNM Cancer Center as an Undergraduate Technician and contribute to our goal of improving the understanding and treatment of cancer through computer intelligence. Work alongside our statistical and oncology experts from UNM and Harvard to develop cutting-edge AI and statistical approaches. This is an excellent opportunity for students looking to expand their knowledge and skills in computational research.
 
-Responsibilities:
-• Collaborate with team members to analyze clinical and genomic data
-• Learn single cell data analysis
-• Learn and develop AI and statistical approaches
+### Responsibilities:
+- Collaborate with team members to analyze clinical and genomic data
+- Learn single cell data analysis
+- Learn and develop AI and statistical approaches
 
-Requirements:
-• Pursuing a degree in computer science, engineering, biochemistry, chemistry, or math major
-• Knowledge of R or Python for computational data analysis
-• Minimum cumulative GPA of 3.0/4.0
-• Able to work a minimum of 10 hours per week
+### Requirements:
+- Pursuing a degree in computer science, engineering, biochemistry, chemistry, or math major
+- Knowledge of R or Python for computational data analysis
+- Minimum cumulative GPA of 3.0/4.0
+- Able to work a minimum of 10 hours per week
 
-To apply, submit your CV to Avi Sahu at asahu@salud.unm.edu. 
+To apply, submit your CV to Avi Sahu at [asahu@salud.unm.edu](asahu@salud.unm.edu). 
