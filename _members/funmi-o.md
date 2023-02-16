@@ -1,7 +1,7 @@
 ---
 name: Olufunmilola Oyebamiji
 image: images/Funmi-O.jpg
-description: Research Scientist
+description: Bioinformatician
 role: bioinformatician
 aliases:
   - Funmi Oyebamiji
