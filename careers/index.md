@@ -51,3 +51,19 @@ This is an excellent opportunity for students, who are looking to expand their k
 Be a part of something big! Submit your CV and a brief research interest to Avi Sahu (asahu@salud.unm.edu) and become a part of the Avi Sahu Lab. Join us in our mission to fight cancer through AI.
 
 
+ # UG Technician in AI and single cell analysis
+
+Join our team at the Avi Sahu Lab at UNM Cancer Center as an Undergraduate Technician and contribute to our goal of improving the understanding and treatment of cancer through computer intelligence. Work alongside our statistical and oncology experts from UNM and Harvard to develop cutting-edge AI and statistical approaches. This is an excellent opportunity for students looking to expand their knowledge and skills in computational research.
+
+Responsibilities:
+• Collaborate with team members to analyze clinical and genomic data
+• Learn single cell data analysis
+• Learn and develop AI and statistical approaches
+
+Requirements:
+• Pursuing a degree in computer science, engineering, biochemistry, chemistry, or math major
+• Knowledge of R or Python for computational data analysis
+• Minimum cumulative GPA of 3.0/4.0
+• Able to work a minimum of 10 hours per week
+
+To apply, submit your CV to Avi Sahu at asahu@salud.unm.edu. 
