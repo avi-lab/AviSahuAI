@@ -1,17 +1,10 @@
-- id: doi: 10.1007/978-1-0716-1740-3_11
+- id: doi:10.1007/978-1-0716-1740-3_11
   image: https://link.springer.com/protocol/10.1007/978-1-0716-1740-3_11/figures/1
   
 
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1158/2159-8290.CD-22-0244
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
