@@ -1,7 +1,7 @@
 ---
 name: Avinash D. Sahu
 image: images/Sahu-A.png
-description: Assistant Professor
+description: Principal Investigator
 role: pi
 aliases:
   - Avi Sahu
