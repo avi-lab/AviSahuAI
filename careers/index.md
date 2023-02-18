@@ -20,11 +20,11 @@ The Avi Sahu Lab at the UNM Cancer Center is seeking a highly motivated postdoct
 - Attending relevant workshops to develop computational biology, bioinformatics, and computational immunology skills.
 
 ### Requirements:
-- PhD in computer science, engineering, physics, data sciences, life sciences, biology, immunology or a related field. 
--  Experience in data analysis with computational data tools (R, Python). 
+-  PhD in computer science, engineering, physics, data sciences, life sciences, biology, immunology or a related field. 
+-  Experience in data analysis with computational data tools (R, Python). Applicant **without computational training will NOT be entertained**.  
 -  Excellent verbal and written communication skills. - Ability to work independently and as part of a team.
 
-To apply, please send your CV and a brief research interest to Avi Sahu at [asahu@salud.unm.edu](asahu@salud.unm.edu). Join us in our mission to fight cancer through AI. The position comes with an attractive salary package commensurate with computation postdocs and experience.
+To apply, please send your CV, a brief research interest in our lab to Avi Sahu at [asahu@salud.unm.edu](asahu@salud.unm.edu). Please provide a brief paragraph in your email describing your computational training and experience. The position comes with an attractive salary package commensurate with computation postdocs and experience.
 
 
 # Exciting Opportunity to Make a Difference in Cancer Research (Data Analyst)
