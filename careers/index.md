@@ -11,20 +11,29 @@ New openings are coming soon!
 
 UNM Students interested in Postdocs, PhD, UG research at UNM Avi Lab please directly reach out to Avi Sahu @ [asahu@salud.unm.edu](asahu@salud.unm.edu) 
 
-# Postdoctoral Fellow at Avi Sahu Lab to Work in AI and Biomedicine!
-The Avi Sahu Lab at the UNM Cancer Center is seeking a highly motivated postdoctoral fellow with a passion for learning AI and statistical approaches to join our team. Our interdisciplinary group focuses on developing novel diagnostic methods and utilizing artificial intelligence to improve cancer treatments. Our lab specializes in developing computational approaches for drugs and gene targets by interfacing immuno-oncology with AI/statistical approaches. We are currently working on developing computational approaches in three areas: 1) personalized approaches for targeting tumor heterogeneity (particularly in ovarian cancer), 2) new immunotherapeutic targets and agents by targeting tumor immune microenvironment, and 3) statistical analysis of single cell data. Please choose one area while responding to this post.
+# Postdoctoral Researcher in Tumor-Microenvironment and AI Lab
+Tumor-Microenvironment & AI (TumorAI) lab (AviSahuAI.com) at UNM Comprehensive Cancer Center seeks two postdoctoral researchers in AI and computational biology to join our interdisciplinary team. The lab focuses on improving cancer treatments by developing novel diagnostic methods and utilizing AI and statistical approaches. Our team is dedicated to developing computational approaches for drugs and gene targets by interfacing immuno-oncology with AI/statistical approaches.
+
+*Compensation:* Our lab is against “cheap labor” and unjustified low salaries for postdocs. We believe in postdocs for their talent, professional, and technical skills (ref go.nature.com/3YS5P52). 
+
+We offer a **minimum starting salary of $70,000+**, commensurate with computation skillset and experience. Albuquerque's cost of living is low (e.g. 90% lower than NYC).
+
+Postdoctoral researchers will develop independent research projects aligning with our mission and contribute to ongoing projects in developing computational approaches for: 1) personalized approaches for targeting tumor heterogeneity, 2) new immunotherapeutic targets and agents by targeting tumor immune microenvironment, and 3) statistical analysis of single cell data. We offer interdisciplinary mentorship in oncology and immunology from Cancer Center researchers, and in AI and statistic from leaders from Harvard. Our lab has extensive expertise in obtaining Young investigator grants from NIH, Foundations, and Pharma and Tech companies, as well as UNMCCC is a leader in this part of the country with a track record junior researchers obtaining NCI grants. Postdoc researchers will be trained and encouraged to apply for grants and fellowships (e.g. Michelson Prize, NIH K, Burroughs Welcome Foundation ) to advancing their careers.
 
 ### Key Responsibilities:
-- Learning and developing AI and statistical approaches for cancer research - Analyzing clinical and genomic data 
--  Contributing to scientific writing and creating data figures for research publications 
+- Learning and developing AI and statistical approaches for cancer research.
+- Analyzing clinical and genomic data.
+- Contributing to research publications and grants. Learn and apply for career development grants.
 - Attending relevant workshops to develop computational biology, bioinformatics, and computational immunology skills.
 
 ### Requirements:
--  PhD in computer science, engineering, physics, data sciences, life sciences, biology, immunology or a related field. 
--  **Applicants are required to have prior computational training** and experience in R or Python.
--  Excellent verbal and written communication skills. - Ability to work independently and as part of a team.
+- PhD in computer science, engineering, physics, data sciences, or a related field OR PhD life sciences, biology, immunology, or a related field with computational training.
+- **Applicants are required to have prior computational training** and experience in R or Python.
+- Excellent verbal and written communication skills.
+- Ability to work independently and as part of a team.
 
-To apply, please send your CV, a brief research interest in our lab to Avi Sahu at [asahu@salud.unm.edu](asahu@salud.unm.edu). Please provide a brief paragraph in your email describing your computational training and experience. The position comes with an attractive salary package commensurate with computation postdocs and experience.
+
+To *apply*, please send your CV and a 1-page research interest in TumorAI lab to Avi Sahu at [asahu@salud.unm.edu](asahu@salud.unm.edu). Let's make a difference together, join us in mission to fight cancer through AI. Visit AviSahuAI.com for more job opportunities.
 
 
 # Exciting Opportunity to Make a Difference in Cancer Research (Data Analyst)
