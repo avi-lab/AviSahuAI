@@ -14,9 +14,11 @@ UNM Students interested in Postdocs, PhD, UG research at UNM Avi Lab please dire
 # Postdoctoral Researcher in Tumor-Microenvironment and AI Lab
 Tumor-Microenvironment & AI (TumorAI) lab (AviSahuAI.com) at UNM Comprehensive Cancer Center seeks two postdoctoral researchers in AI and computational biology to join our interdisciplinary team. The lab focuses on improving cancer treatments by developing novel diagnostic methods and utilizing AI and statistical approaches. Our team is dedicated to developing computational approaches for drugs and gene targets by interfacing immuno-oncology with AI/statistical approaches.
 
-*Compensation:* Our lab is against “cheap labor” and unjustified low salaries for postdocs. We believe in postdocs for their talent, professional, and technical skills (ref go.nature.com/3YS5P52). 
-
+***Compensation:*** 
 We offer a **minimum starting salary of $70,000+**, commensurate with computation skillset and experience. Albuquerque's cost of living is low (e.g. 90% lower than NYC).
+
+Our lab is against “cheap labor” and unjustified low salaries for postdocs. We believe in postdocs for their talent, professional, and technical skills (ref go.nature.com/3YS5P52). 
+
 
 Postdoctoral researchers will develop independent research projects aligning with our mission and contribute to ongoing projects in developing computational approaches for: 1) personalized approaches for targeting tumor heterogeneity, 2) new immunotherapeutic targets and agents by targeting tumor immune microenvironment, and 3) statistical analysis of single cell data. We offer interdisciplinary mentorship in oncology and immunology from Cancer Center researchers, and in AI and statistic from leaders from Harvard. Our lab has extensive expertise in obtaining Young investigator grants from NIH, Foundations, and Pharma and Tech companies, as well as UNMCCC is a leader in this part of the country with a track record junior researchers obtaining NCI grants. Postdoc researchers will be trained and encouraged to apply for grants and fellowships (e.g. Michelson Prize, NIH K, Burroughs Welcome Foundation ) to advancing their careers.
 
