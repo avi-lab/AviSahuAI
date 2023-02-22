@@ -15,7 +15,7 @@ UNM Students interested in Postdocs, PhD, UG research at UNM Avi Lab please dire
 Tumor-Microenvironment & AI (TumorAI) lab (AviSahuAI.com) at UNM Comprehensive Cancer Center seeks two postdoctoral researchers in AI and computational biology to join our interdisciplinary team. The lab focuses on improving cancer treatments by developing novel diagnostic methods and utilizing AI and statistical approaches. Our team is dedicated to developing computational approaches for drugs and gene targets by interfacing immuno-oncology with AI/statistical approaches.
 
 ***Compensation:*** 
-We offer a **minimum starting salary of $70,000+**, commensurate with computation skillset and experience. Albuquerque's cost of living is low (e.g. 90% lower than NYC).
+We offer a **minimum starting salary of $70,000+**, commensurate with computation skillset and experience. Albuquerque's cost of living is low (e.g. 45% lower than NYC).
 
 Our lab is against “cheap labor” and unjustified low salaries for postdocs. We believe in postdocs for their talent, professional, and technical skills (ref go.nature.com/3YS5P52). 
 
