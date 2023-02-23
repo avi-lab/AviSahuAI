@@ -41,3 +41,47 @@
   date: '2023-02-06'
   link: https://doi.org/grsb2f
   _cache: 08f352e518977d644a0b5635ad99404102faf9773f184bd75888386a8fefd7b0
+- id: doi:10.1038/ncomms9555
+  title: Bayesian integration of genetics and epigenetics detects causal regulatory
+    SNPs underlying expression variability
+  authors:
+  - Avinash Das
+  - Michael Morley
+  - Christine S. Moravec
+  - W. H. W. Tang
+  - Hakon Hakonarson
+  - Euan A. Ashley
+  - Jeffrey Brandimarto
+  - Ray Hu
+  - Mingyao Li
+  - Hongzhe Li
+  - Yichuan Liu
+  - Liming Qu
+  - Pablo Sanchez
+  - Kenneth B. Margulies
+  - Thomas P. Cappola
+  - Shane Jensen
+  - Sridhar Hannenhalli
+  - ' '
+  publisher: Nature Communications
+  date: '2015-10-12'
+  link: https://doi.org/f7zv7h
+  _cache: 32fe001e2670e6f40e34fff5f5f4515dffec6bef0e69b629fb7392e331bc86ee
+- id: doi:10.4049/jimmunol.208.Supp.62.10
+  title: "Genome-wide CRISPR screens reveal metabolic and transcriptional regulation\
+    \ of BTN3A and cancer susceptibility to V\u03B39V\u03B42 T cell targeting"
+  authors:
+  - Murad R Mamedov
+  - Shane Vedova
+  - Jacob W. Freimer
+  - Avinash Das Sahu
+  - Peixin Amy Chen
+  - Amrita Ramesh
+  - Kristina Hanspers
+  - Vinh Q. Nguyen
+  - Erin J Adams
+  - Alexander Marson
+  publisher: The Journal of Immunology
+  date: '2022-05-01'
+  link: https://doi.org/grtjkn
+  _cache: 16f10a399c88be104266aa76232a974bfc5271b366de11933dcc536b26add572
