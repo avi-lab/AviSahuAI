@@ -11,26 +11,17 @@ Published works!
 
 
 Under construction!! 
-<!-- {%
-  include link.html
-  type="doc"
-  link="https://avisahuai.com/images/avi_sahu_CV.pdf"
-  icon="fab fa-twitter-square"
-  text="Follow us on Twitter"
-  tooltip="Follow us on Twitter for cool tweets about nothing"
-  style="button"
-%} -->
 
+
+{% include section.html %}
 
 {%
   include link.html
-  type="doc"
-  link="https://avisahuai.com/images/avi_sahu_CV.pdf"
+  type="docs"
   icon=""
-  text="Avi Sahu's CV"
+  text="Avi Sahu CV."
+  link="https://avisahuai.com/images/avi_sahu_CV.pdf"
 %}
-
-{% include section.html %}
 
 {% include search-box.html %}
 
