@@ -11,6 +11,7 @@ Published works!
 
 Under construction!!
 
+[embed]https://github.com/avi-lab/AviSahuAI/blob/main/research/avi_sahu_CV.pdf[/embed]
 {% include section.html %}
 
 {% include search-box.html %}
