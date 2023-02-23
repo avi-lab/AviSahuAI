@@ -9,9 +9,19 @@ nav:
 
 Published works!
 
-Under construction!!
 
-[embed]https://github.com/avi-lab/AviSahuAI/blob/main/research/avi_sahu_CV.pdf[/embed]
+Under construction!! 
+
+{%
+  include link.html
+  type="text"
+  link="images/avi_sahu_CV.pdf"
+  icon=""
+  text="Avi Sahu's CV"
+  tooltip="Avi Sahu's CV"
+  style="button"
+%}
+
 {% include section.html %}
 
 {% include search-box.html %}

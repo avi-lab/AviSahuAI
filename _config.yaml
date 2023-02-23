@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: Avi Sahu lab 
-description: Website for Avi Sahu labs
-logo: images/logo.svg
+title: Tumor AI lab 
+description: Website for Tumor AI (Avi Sahu) labs
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
@@ -13,7 +13,7 @@ links:
   email: asahu@salud.unm.edu
   google-scholar: DEvS7JIAAAAJ
   github: vinash85
-  # twitter: YourLabHandle
+  twitter: avi_dsahu
   # instagram: YourLabHandle
   # youtube: YourLabChannel
 
