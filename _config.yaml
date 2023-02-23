@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Tumor AI lab 
 description: Website for Tumor AI (Avi Sahu) labs
-logo: images/logo.png
+logo: images/labLogo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""

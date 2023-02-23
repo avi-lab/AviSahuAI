@@ -15,7 +15,7 @@ Under construction!!
 {%
   include link.html
   type="text"
-  link="images/avi_sahu_CV.pdf"
+  link="https://avisahuai.com/images/avi_sahu_CV.pdf"
   icon=""
   text="Avi Sahu's CV"
   tooltip="Avi Sahu's CV"
