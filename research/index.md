@@ -16,7 +16,7 @@ Under construction!!
   include link.html
   type="text"
   link="https://avisahuai.com/images/avi_sahu_CV.pdf"
-  icon=""
+  icon="far fa-newspaper"
   text="Avi Sahu's CV"
   tooltip="Avi Sahu's CV"
   style="button"
