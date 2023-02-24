@@ -85,3 +85,268 @@
   date: '2022-05-01'
   link: https://doi.org/grtjkn
   _cache: 16f10a399c88be104266aa76232a974bfc5271b366de11933dcc536b26add572
+- id: doi:10.1038/s41467-018-04647-1
+  title: Harnessing synthetic lethality to predict the response to cancer treatment
+  authors:
+  - Joo Sang Lee
+  - Avinash Das
+  - Livnat Jerby-Arnon
+  - Rand Arafeh
+  - Noam Auslander
+  - Matthew Davidson
+  - Lynn McGarry
+  - Daniel James
+  - Arnaud Amzallag
+  - Seung Gu Park
+  - Kuoyuan Cheng
+  - Welles Robinson
+  - Dikla Atias
+  - Chani Stossel
+  - Ella Buzhor
+  - Gidi Stein
+  - Joshua J. Waterfall
+  - Paul S. Meltzer
+  - Talia Golan
+  - Sridhar Hannenhalli
+  - Eyal Gottlieb
+  - Cyril H. Benes
+  - Yardena Samuels
+  - Emma Shanks
+  - Eytan Ruppin
+  publisher: Nature Communications
+  date: '2018-06-29'
+  link: https://doi.org/gdtzpr
+  _cache: 67c5183007740153254639cb010a589fd9774b68291fba9c9eddd3bd63587794
+- id: doi:10.1371/journal.pone.0039573
+  title: 'ChIPnorm: A Statistical Method for Normalizing and Identifying Differential
+    Regions in Histone Modification ChIP-seq Libraries'
+  authors:
+  - Nishanth Ulhas Nair
+  - Avinash Das Sahu
+  - Philipp Bucher
+  - Bernard M. E. Moret
+  publisher: PLoS ONE
+  date: '2012-08-03'
+  link: https://doi.org/grtvcn
+  _cache: c022a9aa13c55e743386689d5014bd25d025aa39b799c96d9259049d7d60e165
+- id: doi:10.1016/j.celrep.2019.06.067
+  title: 'Beyond Synthetic Lethality: Charting the Landscape of Pairwise Gene Expression
+    States Associated with Survival in Cancer'
+  authors:
+  - Assaf Magen
+  - Avinash Das Sahu
+  - Joo Sang Lee
+  - Mahfuza Sharmin
+  - Alexander Lugo
+  - J. Silvio Gutkind
+  - "Alejandro A. Sch\xE4ffer"
+  - Eytan Ruppin
+  - Sridhar Hannenhalli
+  publisher: Cell Reports
+  date: '2019-07-01'
+  link: https://doi.org/ggjt53
+  _cache: f12b6ee9fee3fcf4f2056585fea6c8fd6e298d09e753f6ad13a83d076479d849
+- id: doi:10.1101/gr.212050.116
+  title: Distal CpG islands can serve as alternative promoters to transcribe genes
+    with silenced proximal promoters
+  authors:
+  - Shrutii Sarda
+  - Avinash Das
+  - Charles Vinson
+  - Sridhar Hannenhalli
+  publisher: Genome Research
+  date: '2017-02-21'
+  link: https://doi.org/f9wf83
+  _cache: dd8f423682288ab9f57dccb6e6f66ad798f4529846087360267326ec3e64a236
+- id: doi:10.1038/s41598-019-47440-w
+  title: Migration rather than proliferation transcriptomic signatures are strongly
+    associated with breast cancer patient survival
+  authors:
+  - Nishanth Ulhas Nair
+  - Avinash Das
+  - Vasiliki-Maria Rogkoti
+  - Michiel Fokkelman
+  - Richard Marcotte
+  - Chiaro G. de Jong
+  - Esmee Koedoot
+  - Joo Sang Lee
+  - Isaac Meilijson
+  - Sridhar Hannenhalli
+  - Benjamin G. Neel
+  - Bob van de Water
+  - "Sylvia E. Le D\xE9v\xE9dec"
+  - Eytan Ruppin
+  publisher: Scientific Reports
+  date: '2019-07-29'
+  link: https://doi.org/grtvcp
+  _cache: bf1c99621d1a46ebcfa7032e048707a65352b85367e2533bdc7e1b50dbd7b1a6
+- id: doi:10.1038/ncomms9555
+  title: Bayesian integration of genetics and epigenetics detects causal regulatory
+    SNPs underlying expression variability
+  authors:
+  - Avinash Das
+  - Michael Morley
+  - Christine S. Moravec
+  - W. H. W. Tang
+  - Hakon Hakonarson
+  - Euan A. Ashley
+  - Jeffrey Brandimarto
+  - Ray Hu
+  - Mingyao Li
+  - Hongzhe Li
+  - Yichuan Liu
+  - Liming Qu
+  - Pablo Sanchez
+  - Kenneth B. Margulies
+  - Thomas P. Cappola
+  - Shane Jensen
+  - Sridhar Hannenhalli
+  - ' '
+  publisher: Nature Communications
+  date: '2015-10-12'
+  link: https://doi.org/f7zv7h
+  _cache: 32fe001e2670e6f40e34fff5f5f4515dffec6bef0e69b629fb7392e331bc86ee
+- id: doi:10.15252/msb.20188323
+  title: "Genome\u2010wide prediction of synthetic rescue mediators of resistance\
+    \ to targeted and immunotherapy"
+  authors:
+  - Avinash Das Sahu
+  - Joo S Lee
+  - Zhiyong Wang
+  - Gao Zhang
+  - "Ramiro Iglesias\u2010Bartolome"
+  - Tian Tian
+  - Zhi Wei
+  - Benchun Miao
+  - Nishanth Ulhas Nair
+  - Olga Ponomarova
+  - Adam A Friedman
+  - Arnaud Amzallag
+  - Tabea Moll
+  - Gyulnara Kasumova
+  - Patricia Greninger
+  - Regina K Egan
+  - Leah J Damon
+  - Dennie T Frederick
+  - "Livnat Jerby\u2010Arnon"
+  - Allon Wagner
+  - Kuoyuan Cheng
+  - Seung Gu Park
+  - Welles Robinson
+  - Kevin Gardner
+  - Genevieve Boland
+  - Sridhar Hannenhalli
+  - Meenhard Herlyn
+  - Cyril Benes
+  - Keith Flaherty
+  - Ji Luo
+  - J Silvio Gutkind
+  - Eytan Ruppin
+  publisher: Molecular Systems Biology
+  date: '2019-03-01'
+  link: https://doi.org/grtvcq
+  _cache: 19c06eff84784c2d6b7e9717d8da20ae2fb95675fc2295ebdb040aad775df5d1
+- id: doi:10.1534/genetics.117.300280
+  title: Prediction and Subtyping of Hypertension from Pan-Tissue Transcriptomic and
+    Genetic Analyses
+  authors:
+  - Mahashweta Basu
+  - Mahfuza Sharmin
+  - Avinash Das
+  - Nishanth Ulhas Nair
+  - Kun Wang
+  - Joo Sang Lee
+  - Yen-Pei Christy Chang
+  - Eytan Ruppin
+  - Sridhar Hannenhalli
+  publisher: Genetics
+  date: '2017-09-12'
+  link: https://doi.org/gchwnw
+  _cache: 97458daeea28e8d1173a0d26270dfc42aba5034984c4257bafe8a55f06d1b40b
+- id: doi:10.1109/TCBB.2014.2359446
+  title: 'Phenotype-Dependent Coexpression Gene Clusters: Application to Normal and
+    Premature Ageing'
+  authors:
+  - Kun Wang
+  - Avinash Das
+  - Zheng-Mei Xiong
+  - Kan Cao
+  - Sridhar Hannenhalli
+  publisher: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  date: '2015-01-01'
+  link: https://doi.org/grtvcr
+  _cache: 419cbd4025a504727023e3c83224194b197b8d401dfb55cab57275fd9c408382
+- id: doi:10.1142/9789814447973_0010
+  title: EPIGENOMIC MODEL OF CARDIAC ENHANCERS WITH APPLICATION TO GENOME WIDE ASSOCIATION
+    STUDIES
+  authors:
+  - Avinash Das Sahu
+  - Radhouane Aniba
+  - Yen-Pei Christy Chang
+  - Sridhar Hannenhalli
+  publisher: Biocomputing 2013
+  date: '2012-11-01'
+  link: https://doi.org/grtvcs
+  _cache: fb04be23535a24e3d9d9a9d20748c01a998015649e4e98f0a85534e7ab9f342d
+- id: doi:10.1038/s41598-017-18524-2
+  title: Putative functional genes in idiopathic dilated cardiomyopathy
+  authors:
+  - Nishanth Ulhas Nair
+  - Avinash Das
+  - Uri Amit
+  - Welles Robinson
+  - Seung Gu Park
+  - Mahashweta Basu
+  - Alex Lugo
+  - Jonathan Leor
+  - Eytan Ruppin
+  - Sridhar Hannenhalli
+  publisher: Scientific Reports
+  date: '2018-01-08'
+  link: https://doi.org/gct5r6
+  _cache: 1d3b327ab144856a0b97416ee14ff13e859c89fb2afa09ddaf01ba7dce659bc4
+- id: doi:10.1145/2506583.2506652
+  title: Identification of gene clusters with phenotype-dependent expression with
+    application to normal and premature ageing
+  authors:
+  - Kun Wang
+  - Avinash Das
+  - Zheng-Mei Xiong
+  - Kan Cao
+  - Sridhar Hannenhalli
+  publisher: Proceedings of the International Conference on Bioinformatics, Computational
+    Biology and Biomedical Informatics
+  date: '2013-09-22'
+  link: https://doi.org/grtvct
+  _cache: 93dc13751fd04da33f2c7b15778e4cb792da36b82c88a739b7f8db4c9d3e4b7b
+- id: doi:10.1007/978-1-0716-1740-3_11
+  title: 'INCISOR: An Algorithm to Identify Synthetic Rescue Mediators of Resistance
+    to Targeted and Immunotherapy'
+  authors:
+  - Xiaoman Wang
+  - Frederick Sagayaraj Vizeacoumar
+  - Avinash Das Sahu
+  publisher: Methods in Molecular Biology
+  date: '2021-01-01'
+  link: https://doi.org/grsmhz
+  _cache: db094a334a2b33f2d57fd251164add471b388657f4af805e134e4d80ad2e2088
+- id: doi:10.1158/1538-7445.SABCS19-P4-10-34
+  title: 'Abstract P4-10-34: Plasma sequencing demonstrates that breast cancer patients
+    have a higher prevalence of clonal and multiple PIK3CA mutations than other solid
+    tumor patients'
+  authors:
+  - Christopher Chen
+  - Avinash Sahu
+  - Kristin Price
+  - Christopher Pinto
+  - Read Allen
+  - Xiaoman Wang
+  - Annamaria Szabolcs
+  - Lipika Goyal
+  - David Ting
+  - Shirley Liu
+  - Dejan Juric
+  publisher: Cancer Research
+  date: '2020-02-15'
+  link: https://doi.org/grtvcv
+  _cache: b904abe3db717d579cd3a3c9ed3a5ae1704496de362cc0ad115ea4f91ae2355f
