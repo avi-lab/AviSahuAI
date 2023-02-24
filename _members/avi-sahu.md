@@ -4,6 +4,7 @@ image: images/Sahu-A.png
 role: pi
 aliases:
   - Avinash Sahu
+  - Avinash Das
 links:
   orcid: 0000-0002-2193-6276
   email: asahu@salud.unm.edu
