@@ -2,8 +2,6 @@
 name: Olufunmilola Oyebamiji
 image: images/Funmi-O.jpg
 role: bioinformatician
-aliases:
-  - Funmi Oyebamiji
 links:
   orcid: 0000-0003-3859-9787
   email: ooyebamiji@salud.unm.edu
