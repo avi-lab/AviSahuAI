@@ -14,11 +14,11 @@ title: Home
   include figure.html
   image="images/michelson.png"
   caption="AI+Cancer"
-  link="https://youtu.be/sca0xD0_x34?t=38s"
+  link="https://www.youtube.com/watch?v=0Ig9FoI1_Q4"
 %}
 
   <!-- width="400px" -->
-<!-- [![AI+Cancer](images/Youtube_Screenshot_Website.png)](https://youtu.be/sca0xD0_x34?t=38s "AI+Cancer") -->
+<!-- [![AI+Cancer](images/Youtube_Screenshot_Website.png)](https://www.youtube.com/watch?v=0Ig9FoI1_Q4 "AI+Cancer") -->
 
 Our  <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to enhance understanding and treatment of cancer by harnessing the power of computer intelligence. Guided by our vision that computers will be able think and do just as humans can, we strive to develop cutting-edge AI and statistical approaches to build systems models of tumors, and collaborate with experimental labs and pharma companies to achieve our mission. Our lab fosters a diverse, collaborative environment for advancing cancer research.
 
