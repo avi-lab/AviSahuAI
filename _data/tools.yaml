@@ -1,47 +1,134 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Bipotent Target Activity Score 
+  subtitle: AI predictor of immunotherapy response
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://rconnect.dfci.harvard.edu/BTAS/_w_8f586f44/icon.png
+  link: https://rconnect.dfci.harvard.edu/BTAS/
+  description: The website provides an interface for users to our computational approach where users can predict patient response to immunotherapy in arbitrary melanoma cohorts using gene expression from patients as input.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+
+- title: BipotentR 
+  subtitle: Method to identify gene targets that kill tumor by two mechanisms con-currently.
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: http://bipotentr.dfci.harvard.edu/icon.png
+  link: http://bipotentr.dfci.harvard.edu/
+  description: BipotentR identifies targets for bipotent drugs - single drugs that can kill cancer by multiple mechanisms. BipotentR was developed to address the low response rates to existing therapies targeting single mechanisms that also suffer from high relapse rates due to evolved resistance to single mechanisms.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: DeepImmune 
+  subtitle: AI-predictor of immunotherapy response
+  group: featured
+  # image: http://bipotentr.dfci.harvard.edu/icon.png
+  link: https://github.com/vinash85/deepImmune
+  description: DeepImmune is an AI predictor that employs drug-induced transcriptomic changes to identify drugs that synergize with immune check blockade (ICB) and prioritize them for clinical trials. The parameters of DeepImmune are trained on 40,000 patients tumors. It uses transfer learning to predict response to ICB. Then it implement a pertubation model to estimate effect of drugs on ICB response.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: MSSC
+  subtitle: Differential gene analysis across multiple scRNAseq datasets
+  group: featured
+  # image: images/photo.jpg
+  link: https://github.com/JunLiuLab/mssc
+  description: A major challenge in scRNA data analysis is that cells from the same sample are not independent. Commonly used differential expression methods fail to account for this pseudoreplication bias, leading to inflated false positives. Several published scRNA results reported differential genes that are not driven by biological differences but by pseudoreplication, which has exacerbated the replicability crisis in the field. To control for false positive due to psuedoreplication, this pipeline(Difficult) uses a Bayesian model (MSSC) to identify differentially expressed genes in scRNA by modeling pseudoreplication.
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: scdiffpop
+  subtitle: Single cell differential immune cell population
+  group: featured
+  # image: images/photo.jpg
+  link: https://github.com/vinash85/scdiffpop/tree/phil
+  description: n COVID-19 patients, there is a need to determine the role of specific immune cells that drive disease severity. This involves comparing immune fraction between samples (e.g., between COVID-infected vs. healthy samples) using a nonparametric test. However, such predictions are not robust, and the test is underpowered due to small sample sizes in single-cell RNAseq datasets. To address this, we are devising a statistical tool, scDiffPop, to robustly identify differential immune populations between any two phenotypes (infected vs. healthy, or severe vs. asymptomatic). 
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: TRIM
+  subtitle: Statistical approach to identify Transcription Regulator of Immune-Metabolism
+  group: featured
+  # image: images/photo.jpg
+  link: https://github.com/JunLiuLab/mssc
+  description: Abnormal energy metabolism is a common theme for immune evasion in tumors. Targeting cancer energy metabolism can reinvigorate tumor immunity. Focusing on energy metabolism by oxidative phosphorylation (OXPHOS), TRIM identifes transcriptional regulator of immune-metabolism. In particular, TRIM analyzes 21,000 ChIP-seq experiments, and then determined their immune-modulatory potential in 11,000 tumors and 160,000 single-cells from cancer patients.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resource
+    - publication
+
+
+- title: INCISOR
+  subtitle: Identifying synethetic rescue interactions in humans.
+  group: featured
+  # image: images/photo.jpg
+  link: https://github.com/vinash85/INCISOR/blob/master/README.md
+  description: INCISOR prioritizes clinically relevant SRs by analyzing functional genomic and clinical survival data in an integrated manner. Due to the scarcity of published gold standards of SR interactions, we conducted new large-scale in vitro experiments to validate our predictions. The paucity of known rescue interactions in the literature further underscores the importance of developing tools like INCISOR. Overall, INCISOR attained precision levels of an average 48% (at 50% recall) in the identification of true SR interaction across all published and new experiments. Finally, we show that SR mediates both primary and adaptive resistance in patients.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+
+- title: GOAL
+  subtitle: Bayesian tool to find causal expression regulatory polymorphisms by integration of genetic and epigenetic data 
+  group: featured
+  # image: images/photo.jpg
+  link: https://github.com/vinash85/INCISOR/blob/master/README.md
+  description: INCISOR prioritizes clinically relevant SRs by analyzing functional genomic and clinical survival data in an integrated manner. Due to the scarcity of published gold standards of SR interactions, we conducted new large-scale in vitro experiments to validate our predictions. The paucity of known rescue interactions in the literature further underscores the importance of developing tools like INCISOR. Overall, INCISOR attained precision levels of an average 48% (at 50% recall) in the identification of true SR interaction across all published and new experiments. Finally, we show that SR mediates both primary and adaptive resistance in patients.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+
+- title: ISLE
+  subtitle: Identification of clinically relevant synthetic lethal interactions.
+  group: featured
+  # image: images/photo.jpg
+  link: https://github.com/vinash85/INCISOR/blob/master/README.md
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+
+- title: Hirdaya
+  subtitle: SVM predictor of driver genes in idiopathic dilated Image result for cardiomyopathy.
+  group: featured
+  # image: images/photo.jpg
+  link: 
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+
+- title: CellToPhenotype
+  subtitle:  statistical method for identifying interesting regions in histone modification libraries.
+  group: featured
+  # image: images/photo.jpg
+  link: https://github.com/nishanth83/CellToPhenotype
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
+
+
+- title: ChIPnorm
+  subtitle: Identification of clinically relevant synthetic lethal interactions
+  group: featured
+  # image: images/photo.jpg
+  link: https://archiveweb.epfl.ch/lcbb.epfl.ch/
+  description: 
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+    - publication
