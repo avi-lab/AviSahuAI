@@ -12,6 +12,7 @@ The Avi Sahu Laboratory is dedicated to developing innovative therapies and iden
 {% include list.html data="members" component="portrait" filters="role: pi, group: " %}
 {% include list.html data="members" component="portrait" filters="role: bioinformatician, group: " %}
 {% include list.html data="members" component="portrait" filters="role: Graduate Student, group: " %}
+{% include list.html data="members" component="portrait" filters="role: Graduate Student, group: " %}
 
 {% include section.html %}
 
