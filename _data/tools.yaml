@@ -79,7 +79,7 @@
   group: featured
   # image: images/photo.jpg
   link: https://github.com/vinash85/INCISOR/blob/master/README.md
-  description: INCISOR prioritizes clinically relevant SRs by analyzing functional genomic and clinical survival data in an integrated manner. Due to the scarcity of published gold standards of SR interactions, we conducted new large-scale in vitro experiments to validate our predictions. The paucity of known rescue interactions in the literature further underscores the importance of developing tools like INCISOR. Overall, INCISOR attained precision levels of an average 48% (at 50% recall) in the identification of true SR interaction across all published and new experiments. Finally, we show that SR mediates both primary and adaptive resistance in patients.
+  description: 
   repo: greenelab/lab-website-template
   tags:
     - resource

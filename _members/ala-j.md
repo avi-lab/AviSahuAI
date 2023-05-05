@@ -1,7 +1,7 @@
 ---
 name: Ala Jararwah
 image: images/Ala-J.jpeg
-role: Graduate Student
+role: A Graduate Student
 links:
   email: 
   
@@ -11,4 +11,4 @@ Ala Jararwah is an experienced and brilliant Graduate Student who has worked in 
 
 In addition to his research work, Ala has worked as a Teaching Assistant for various courses, including CS261: Discrete Mathematics and CS527: Principles of Artificially Intelligent Machines. As a Teaching Assistant, he has conducted office hours on a weekly basis, provided educational materials, and developed and corrected assignments while ensuring academic integrity.
 
-Ala is dedicated to providing a clean, safe, and comfortable learning environment for students while also contributing to cutting-edge research in the Tumor AI lab.
+Ala is dedicated to providing a safe, and comfortable learning environment for students while also contributing to cutting-edge research in the Tumor AI lab.
