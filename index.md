@@ -26,34 +26,8 @@ Our  <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to enha
 {% include section.html %}
 
 # Highlights
-
 {% capture text %}
-We're thrilled to announce the release of our latest preprint in collaboration with Lab of Rafa Irizarry! We've developed a principled approach, scDist, to tackle the challenge of individual and cohort variability in single-cell data. As the adoption of single-cell technologies grows, the importance of rigorous and principled approaches to handle the resulting data variation cannot be overstated. It's crucial for improving the accuracy of our findings and reducing false positives. Adoption of this rigrous tool allowed us to detect robust perturbations in DC, pDC, and NK cells in COVID-19 and immunotherapy treatment responses.As single-cell datasets continue to expand, we believe that there is even more work to be done by those are passionate about the intersection of AI, statistics, and biology. With collective effort and open discussion, we can drive this field forward. Let's make a difference together!
-
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="Read our pre-print."
-  link="https://www.biorxiv.org/content/10.1101/2023.05.06.539326v1"
-%}
-
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/scDist.png"
-  link="https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-22-0244/716349/Discovery-of-Targets-for-Immune-Metabolic"
-  title="Highlight of our new pre-print!"
-  text=text
-%}
-
-
-
-
-{% capture text %}
-This research publication in Cancer Discovery explores the discovery of bipotent drugs as a new solution for traditional combination therapies. Our cutting-edge AI techniques predict patient responses to immunotherapy. Be a part of this exciting research and contribute to the advancement of cancer therapy. 
+Our latest research publication in Cancer Discovery explores the discovery of bipotent drugs as a new solution for traditional combination therapies. Our cutting-edge AI techniques predict patient responses to immunotherapy. Be a part of this exciting research and contribute to the advancement of cancer therapy. 
 {%
   include link.html
   type="docs"
@@ -71,7 +45,7 @@ This research publication in Cancer Discovery explores the discovery of bipotent
   link="https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-22-0244/716349/Discovery-of-Targets-for-Immune-Metabolic"
   title="New publication in Cancer Discovery!"
   text=text
-%} 
+%}
 
 Website under construction
 {% capture text %}
@@ -138,4 +112,3 @@ We believe in diversity and inclusivity and are dedicated to fostering a collabo
   title="Our Team"
   text=text
 %}
-
