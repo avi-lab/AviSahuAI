@@ -28,12 +28,13 @@ Our  <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to enha
 # Highlights
 
 {% capture text %}
-Our latest research publication introduce a novel computational tool called scDist, which utilizes a mixed-effects model to effectively identify transcriptomic differences. One significant advantage of scDist is its ability to accurately capture known relationships between immune cells. Additionally, it mitigates false positive results that may arise from variations between individuals or cohorts. 
+We're thrilled to announce the release of our latest preprint in collaboration with Lab of Rafa Irizarry! We've developed a principled approach, scDist, to tackle the challenge of individual and cohort variability in single-cell data. As the adoption of single-cell technologies grows, the importance of rigorous and principled approaches to handle the resulting data variation cannot be overstated. It's crucial for improving the accuracy of our findings and reducing false positives. Adoption of this rigrous tool allowed us to detect robust perturbations in DC, pDC, and NK cells in COVID-19 and immunotherapy treatment responses.As single-cell datasets continue to expand, we believe that there is even more work to be done by those are passionate about the intersection of AI, statistics, and biology. With collective effort and open discussion, we can drive this field forward. Let's make a difference together!
+
 {%
   include link.html
   type="docs"
   icon=""
-  text="Read our publication now in Cancer Discovery."
+  text="Read our pre-print."
   link="https://www.biorxiv.org/content/10.1101/2023.05.06.539326v1"
 %}
 
