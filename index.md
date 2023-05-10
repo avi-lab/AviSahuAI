@@ -26,8 +26,33 @@ Our  <span style="font-family:Papyrus; font-size:1em;">MISSION</span> is to enha
 {% include section.html %}
 
 # Highlights
+
 {% capture text %}
-Our latest research publication in Cancer Discovery explores the discovery of bipotent drugs as a new solution for traditional combination therapies. Our cutting-edge AI techniques predict patient responses to immunotherapy. Be a part of this exciting research and contribute to the advancement of cancer therapy. 
+Our latest research publication introduce a novel computational tool called scDist, which utilizes a mixed-effects model to effectively identify transcriptomic differences. One significant advantage of scDist is its ability to accurately capture known relationships between immune cells. Additionally, it mitigates false positive results that may arise from variations between individuals or cohorts. 
+{%
+  include link.html
+  type="docs"
+  icon=""
+  text="Read our publication now in Cancer Discovery."
+  link="https://www.biorxiv.org/content/10.1101/2023.05.06.539326v1"
+%}
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/scDist.png"
+  link="https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-22-0244/716349/Discovery-of-Targets-for-Immune-Metabolic"
+  title="Highlight of our new pre-print!"
+  text=text
+%}
+
+
+
+
+{% capture text %}
+This research publication in Cancer Discovery explores the discovery of bipotent drugs as a new solution for traditional combination therapies. Our cutting-edge AI techniques predict patient responses to immunotherapy. Be a part of this exciting research and contribute to the advancement of cancer therapy. 
 {%
   include link.html
   type="docs"
@@ -45,7 +70,7 @@ Our latest research publication in Cancer Discovery explores the discovery of bi
   link="https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-22-0244/716349/Discovery-of-Targets-for-Immune-Metabolic"
   title="New publication in Cancer Discovery!"
   text=text
-%}
+%} 
 
 Website under construction
 {% capture text %}
